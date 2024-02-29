@@ -1,0 +1,8 @@
+{
+  "short_name": "react-images-hooks",
+  "name": "react-hw-04-images-hooks-tr",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
